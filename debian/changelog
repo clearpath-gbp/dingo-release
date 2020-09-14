@@ -1,0 +1,20 @@
+ros-melodic-dingo-msgs (0.1.1-1stretch) stretch; urgency=high
+
+
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Mon, 14 Sep 2020 04:00:00 -0000
+
+ros-melodic-dingo-msgs (0.1.0-1stretch) stretch; urgency=high
+
+  * Redefined corner light order in Lights.msg
+  * Added firmware_version string to Status message
+  * Unified Dingo folders/files as much as possible, updated meshes, bumped CMake version and made roslaunch a test depend.
+  * Updated naming for 12V power good variable in Status.msg based on code review
+  * Update messages based on merge request feedback
+  * Remove files added accidentally
+  * Adding first draft of Dingo messages for communication between computer and MCU
+  * Contributors: Jason Higgins, Roni Kreinin, Tony Baltovski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Mon, 10 Aug 2020 04:00:00 -0000
+
+
