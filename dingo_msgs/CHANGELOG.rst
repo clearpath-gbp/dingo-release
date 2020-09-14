@@ -2,6 +2,9 @@
 Changelog for package dingo_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2020-09-14)
+------------------
+
 0.1.0 (2020-08-10)
 ------------------
 * Redefined corner light order in Lights.msg
