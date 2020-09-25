@@ -2,6 +2,9 @@
 Changelog for package dingo_navigation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2020-09-25)
+------------------
+
 0.1.1 (2020-09-14)
 ------------------
 * Nav improvements (`#5 <https://github.com/dingo-cpr/dingo/issues/5>`_)
