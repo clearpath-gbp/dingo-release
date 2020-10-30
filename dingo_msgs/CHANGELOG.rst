@@ -2,6 +2,11 @@
 Changelog for package dingo_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.5 (2020-10-30)
+------------------
+* [dingo_msgs] Removed Power msg.
+* Contributors: Tony Baltovski
+
 0.1.4 (2020-10-26)
 ------------------
 
