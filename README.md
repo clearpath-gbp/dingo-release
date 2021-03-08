@@ -1,3 +1,30 @@
+## dingo (melodic) - 0.1.7-1
+
+The packages in the `dingo` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic dingo` on `Mon, 08 Mar 2021 16:28:53 -0000`
+
+These packages were released:
+- `dingo_control`
+- `dingo_description`
+- `dingo_msgs`
+- `dingo_navigation`
+
+Version of package(s) in repository `dingo`:
+
+- upstream repository: https://github.com/dingo-cpr/dingo.git
+- release repository: https://github.com/clearpath-gbp/dingo-release.git
+- rosdistro version: `0.1.6-2`
+- old version: `0.1.6-2`
+- new version: `0.1.7-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.1`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## dingo (melodic) - 0.1.6-2
 
 The packages in the `dingo` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic dingo` on `Thu, 26 Nov 2020 19:39:53 -0000`
