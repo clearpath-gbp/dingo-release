@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>dingo_description</name>
-  <version>0.1.6</version>
+  <version>0.1.7</version>
   <description>The dingo_description package</description>
 
   <maintainer email="tbaltovski@clearpathrobotics.com">Tony Baltovski</maintainer>
@@ -17,6 +17,7 @@
   <depend>xacro</depend>
   <exec_depend>lms1xx</exec_depend>
   <exec_depend>realsense2_description</exec_depend>
+  <exec_depend>velodyne_description</exec_depend>
 
   <export>
   </export>
