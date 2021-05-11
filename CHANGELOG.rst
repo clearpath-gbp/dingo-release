@@ -2,6 +2,9 @@
 Changelog for package dingo_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.8 (2021-05-11)
+------------------
+
 0.1.7 (2021-03-08)
 ------------------
 * Add env var support for VLP-16 (`#10 <https://github.com/dingo-cpr/dingo/issues/10>`_)
