@@ -2,6 +2,31 @@
 Changelog for package dingo_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.12 (2022-11-22)
+-------------------
+* Updated Realsense comments and include parameter
+* Fixed typo in material name
+* Added secondary realsense
+* Added README with all URDF environment variables
+* Force upper case for environment variables (`#21 <https://github.com/dingo-cpr/dingo/issues/21>`_)
+  * Added PACS
+  * Changed enable envvar name
+  * Added EOL
+  * All caps for envvars
+* Added PACS (`#20 <https://github.com/dingo-cpr/dingo/issues/20>`_)
+  * Added PACS
+  * Changed enable envvar name
+  * Added EOL
+* Contributors: Luis Camero, luis-camero
+
+0.1.11 (2022-05-17)
+-------------------
+* Added Velodyne HDL32E and Microstrain GX5
+* Updated URDF to disable mount
+* Update VLP16 with disable tower and set angle on mount
+* Add Velodyne HDL32e URDF and meshes
+* Contributors: Luis Camero
+
 0.1.10 (2022-01-16)
 -------------------
 * Add missing "xacro:" infront of "include"
