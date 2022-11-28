@@ -143,8 +143,7 @@
   <!--
     Riser: adds riser with posts
   -->
-  <xacro:macro name="riser" params="level parent *origin">
-    <xacro:property name="height" value="${level * 0.1}"/>
+  <xacro:macro name="riser" params="height parent *origin">
     <!-- Quad Posts -->
     <xacro:quad_post parent="chassis_link" prefix="riser_base_link" length="0.16" width="0.08" height="${height-0.00635}">
       <xacro:insert_block name="origin"/>
@@ -171,7 +170,7 @@
       <origin xyz="0 0 ${height - 0.00635}"/>
     </joint>
     <!-- Mounts -->
-    <xacro:mounts parent="riser" level="${riser}"/>
+    <xacro:mounts parent="riser" level="1"/>
   </xacro:macro>
 
   <!--
@@ -301,7 +300,7 @@
         <xacro:property name="riser_x" value="0.040"/>
       </xacro:if>
       <xacro:if value="${riser}">
-        <xacro:riser level="${riser}" parent="base_link">
+        <xacro:riser height="0.100" parent="base_link">
           <origin xyz="${riser_x} 0 0.069"/>
         </xacro:riser>
       </xacro:if>
