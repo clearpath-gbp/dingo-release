@@ -2,8 +2,15 @@
 Changelog for package dingo_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.1.12 (2022-11-22)
--------------------
+0.3.0 (2023-01-30)
+------------------
+* Change Microstrain IMU default parent link from imu_link to base_link
+* Contributors: Joey Yang
+
+0.2.0 (2022-11-22)
+------------------
+* Customizable PACS riser heights
+* Added Flir Blackfly
 * Updated Realsense comments and include parameter
 * Fixed typo in material name
 * Added secondary realsense
