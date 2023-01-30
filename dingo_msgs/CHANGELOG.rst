@@ -2,6 +2,12 @@
 Changelog for package dingo_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.0 (2023-01-30)
+------------------
+* Added Hardware ID's
+  Added shore_power_ov and manual_charger_connected status for D150
+* Contributors: Roni Kreinin
+
 0.2.0 (2022-11-22)
 ------------------
 
