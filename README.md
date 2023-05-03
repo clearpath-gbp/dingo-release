@@ -1,3 +1,30 @@
+## dingo (noetic) - 0.3.1-2
+
+The packages in the `dingo` repository were released into the `noetic` distro by running `/usr/bin/bloom-release dingo -r noetic -t noetic` on `Wed, 03 May 2023 12:41:02 -0000`
+
+These packages were released:
+- `dingo_control`
+- `dingo_description`
+- `dingo_msgs`
+- `dingo_navigation`
+
+Version of package(s) in repository `dingo`:
+
+- upstream repository: https://github.com/dingo-cpr/dingo.git
+- release repository: https://github.com/clearpath-gbp/dingo-release.git
+- rosdistro version: `0.3.1-1`
+- old version: `0.3.1-1`
+- new version: `0.3.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## dingo (noetic) - 0.3.1-1
 
 The packages in the `dingo` repository were released into the `noetic` distro by running `/usr/bin/bloom-release dingo -r noetic -t noetic` on `Thu, 20 Apr 2023 22:08:05 -0000`
